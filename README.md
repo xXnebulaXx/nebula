@@ -1,4 +1,4 @@
-# LO$R Logger v2
+# nebula Logger v2
 ### Powerful Stealer that steals [all this stuff](#features)
 
 
@@ -10,7 +10,7 @@
 
 ## <a id="content"></a>🌐 〢 Content
 
-- [🎉・Setting up LO$R Logger v2](#setup)
+- [🎉・Setting up nebula Logger v2](#setup)
 - [🔰・Features](#features)
 - [👁️・Features Explanation](#explanation)
 - [📝・Changelog](#changelog)
@@ -18,7 +18,7 @@
 - [💼・Term](#terms)
 
 
-## <a id="setup"></a> 📁 〢 Setting up LO$R Logger v2
+## <a id="setup"></a> 📁 〢 Setting up nebula Logger v2
 
 1. Install [Python](https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe)
 2. Install [LO$R Logger v2 Files](https://github.com/madhead341/LOSR-Logger-v2)

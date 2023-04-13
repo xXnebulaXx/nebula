@@ -3,7 +3,7 @@
 
 
 **NOTE:** 
-- LO$R Logger v2 was made for educational purposes, there for all consequences caused by your actions are **your** responsibility and accountability.
+- nebula Logger v2 was made for educational purposes, there for all consequences caused by your actions are **your** responsibility and accountability.
 - You got an error? you've find a bug? Create an issue or contact me on discord!
 
 ---
@@ -172,7 +172,7 @@ v2.0.0: 09/04/2023
 ```
 
 ### Contributors
-- LO$R#0001
+- nebula#0689
 
 ### <a id="forkedfrom"></a>🕵️‍♂️ 〢 Forked From:
 - Hazard Grabber
